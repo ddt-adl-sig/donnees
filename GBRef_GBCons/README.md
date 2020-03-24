@@ -39,3 +39,5 @@ Veiller à ce que la case à cocher **Se reconnecter à la connexion** soit coch
 Puis faire de même avec **N** et **gb_ref**
 
 ![Connecter M](images/pic6.png)
+
+Si tout s'est bien passé, le projet **_Modele_Carte_Atlas.qgs** situé dans **GEOBASE\#Charte_graphique** devrait s'ouvrir normalement dans QGIS.
