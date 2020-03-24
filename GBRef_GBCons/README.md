@@ -2,13 +2,13 @@
 
 Ici se trouve le fichier GEOBASE.zip qui contient l'arborescence de fichiers nécessaires à l'affichage dans QGIS du projet de base de l'atlas 2019.
 
-1. Télécharger **GEOBASE.zip** puis le décompresser dans un répertoire de votre choix. 
+## 1. Télécharger **GEOBASE.zip** puis le décompresser dans un répertoire de votre choix. 
 
 Voici à quoi ressemble GEOBASE.ZIP une fois dézippé: 
 
 ![GEOBASE.ZIP une fois dézippé](images/pic1.png)
 
-2. Partager les répertoires GB_CONS et GB_REF.
+## 2. Partager les répertoires GB_CONS et GB_REF.
 
 Cliquer droit sur le répertoire GB_CONS, choisir **Propriétés**, cliquer sur l'onglet **Partage**:
 
@@ -20,4 +20,6 @@ puis cliquer sur **Partager**
 
 Dans la fenêtre **Accès réseau**, cliquer seulement sur **Partager**.
 
-Le répertoire **GB_CONS** est partagé sur votre réseau.
+Le répertoire **GB_CONS** est partagé sur votre réseau. Faites de même avec **GB_REF**.
+
+## 3. Connecter les lecteurs réseau M et N
