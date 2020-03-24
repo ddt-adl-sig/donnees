@@ -8,10 +8,16 @@ Voici à quoi ressemble GEOBASE.ZIP une fois dézippé:
 
 ![GEOBASE.ZIP une fois dézippé](images/pic1.png)
 
-2.Partager les répertoires GB_CONS et GB_REF.
+2. Partager les répertoires GB_CONS et GB_REF.
 
 Cliquer droit sur le répertoire GB_CONS, choisir **Propriétés**, cliquer sur l'onglet **Partage**:
 
 ![Propriétés du répertoire, onglet partage](images/pic2.png)
 
 puis cliquer sur **Partager**
+
+![Accès réseau](images/pic3.png)
+
+Dans la fenêtre **Accès réseau**, cliquer seulement sur **Partager**.
+
+Le répertoire **GB_CONS** est partagé sur votre réseau.
