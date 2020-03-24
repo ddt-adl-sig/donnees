@@ -36,3 +36,6 @@ Veiller à ce que la case à cocher **Se reconnecter à la connexion** soit coch
 
 ![Connecter M](images/pic5.png)
 
+Puis faire de même avec **N** et **gb_ref**
+
+![Connecter M](images/pic6.png)
